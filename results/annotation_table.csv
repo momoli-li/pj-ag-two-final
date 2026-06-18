@@ -1,0 +1,151 @@
+setting,script_id,scenario,probe_type,question,ground_truth,response,判定
+no_memory,S01,persona,consistency,行程中是否避免了猫咖类活动？,避免猫咖,抱歉，我没有这方面的记录。,0
+no_memory,S02,persona,consistency,餐厅是否考虑了避开乳制品？,避开乳制品,抱歉，我没有这方面的记录。,0
+no_memory,S03,persona,consistency,活动是否考虑素食？,素食,抱歉，我没有这方面的记录。,0
+no_memory,S04,persona,consistency,清单是否考虑不能搬重物？,不搬重物,抱歉，我没有这方面的记录。,0
+no_memory,S05,persona,consistency,是否强调花生/坚果过敏？,花生过敏,抱歉，我没有这方面的记录。,0
+no_memory,S06,persona,consistency,公司是否对应机械工程？,机械,抱歉，我没有这方面的记录。,0
+no_memory,S07,persona,consistency,推荐是否考虑3岁幼儿？,适合幼儿,抱歉，我没有这方面的记录。,0
+no_memory,S08,persona,consistency,是否给数学英语更多权重？,数学英语,抱歉，我没有这方面的记录。,0
+no_memory,S17,update,consistency,清单是韩国美食？,韩国,抱歉，我没有这方面的记录。,0
+no_memory,S18,update,consistency,推荐是否按4岁？,4岁,抱歉，我没有这方面的记录。,0
+no_memory,S19,update,consistency,推荐是否基于1杯/天？,每天1杯,抱歉，我没有这方面的记录。,0
+no_memory,S20,update,consistency,短文提武汉？,武汉,抱歉，我没有这方面的记录。,0
+no_memory,S21,update,consistency,倒推按11月15？,11月15号,抱歉，我没有这方面的记录。,0
+no_memory,S22,update,consistency,计算是否基于2880？,2880,抱歉，我没有这方面的记录。,0
+no_memory,S23,update,consistency,按12人算？,12人,抱歉，我没有这方面的记录。,0
+no_memory,S24,update,consistency,绘本对应中班？,中班,抱歉，我没有这方面的记录。,0
+no_memory,S25,contradiction,consistency,以最新为准？,手抓饼/豆浆,抱歉，我没有这方面的记录。,0
+no_memory,S26,contradiction,consistency,以牛奶为准？,牛奶,抱歉，我没有这方面的记录。,0
+no_memory,S27,contradiction,consistency,按1万？,1万,抱歉，我没有这方面的记录。,0
+no_memory,S28,contradiction,consistency,按北京？,北京,抱歉，我没有这方面的记录。,0
+no_memory,S29,contradiction,consistency,按68？,68,抱歉，我没有这方面的记录。,0
+no_memory,S30,contradiction,consistency,按工作三年？,工作三年,抱歉，我没有这方面的记录。,0
+no_memory,S31,contradiction,consistency,按一个孩子？,一个孩子,抱歉，我没有这方面的记录。,0
+no_memory,S32,contradiction,consistency,按不喝酒？,不喝酒,抱歉，我没有这方面的记录。,0
+no_memory,S01,persona,forgetting,用户的姓名是什么？,林清雨,我目前没有相关上下文。,0
+no_memory,S02,persona,forgetting,用户的职业是什么？,量化研究员,我目前没有相关上下文。,0
+no_memory,S03,persona,forgetting,用户的宠物叫什么、什么品种？,豆豆，柴犬,我目前没有相关上下文。,0
+no_memory,S04,persona,forgetting,用户从哪里搬到哪里？,南山到福田,我目前没有相关上下文。,0
+no_memory,S05,persona,forgetting,用户的职业是什么？,独立插画师,我目前没有相关上下文。,0
+no_memory,S06,persona,forgetting,用户硕士在哪里读的？,英国,我目前没有相关上下文。,0
+no_memory,S07,persona,forgetting,用户家有几个孩子，分别多大？,两个孩子，8岁和3岁,我目前没有相关上下文。,0
+no_memory,S08,persona,forgetting,用户目标院校在哪个城市？,北京,我目前没有相关上下文。,0
+no_memory,S09,recall,forgetting,我家wifi密码是什么来着？,Lin8520#家,抱歉，我没有这方面的记录。,0
+no_memory,S10,recall,forgetting,我之前提过下周二做胃镜的地点是哪家医院？,仁济医院东院,抱歉，我没有这方面的记录。,0
+no_memory,S11,recall,forgetting,我开的车牌号是什么？,沪A·6Q88K,抱歉，我没有这方面的记录。,0
+no_memory,S12,recall,forgetting,我之前说过的会议时间和地点是什么？,下周三19:30，静安嘉里中心,抱歉，我没有这方面的记录。,0
+no_memory,S13,recall,forgetting,我之前提过的那只狗叫什么、是什么品种？,米团，金毛,抱歉，我没有这方面的记录。,0
+no_memory,S14,recall,forgetting,我之前提过的妈妈生日是哪天？,10月17号,抱歉，我没有这方面的记录。,0
+no_memory,S15,recall,forgetting,我刚改的保险柜密码是多少？,713942,抱歉，我没有这方面的记录。,0
+no_memory,S16,recall,forgetting,帮我写一段送礼物时的卡片，要带上我老婆的名字。,顾雪薇,抱歉，我没有这方面的记录。,0
+no_memory,S17,update,forgetting,用户最终去的国家？,韩国,我目前没有相关上下文。,0
+no_memory,S18,update,forgetting,孩子最终年龄？,4岁,我目前没有相关上下文。,0
+no_memory,S19,update,forgetting,目前每天几杯？,1杯,我目前没有相关上下文。,0
+no_memory,S20,update,forgetting,老家最终是哪？,湖北武汉,我目前没有相关上下文。,0
+no_memory,S21,update,forgetting,最终截止日？,11月15号,我目前没有相关上下文。,0
+no_memory,S22,update,forgetting,年卡实际花费？,2880,我目前没有相关上下文。,0
+no_memory,S23,update,forgetting,最终订几个人？,12人,我目前没有相关上下文。,0
+no_memory,S24,update,forgetting,女儿明年上哪个年级？,中班,我目前没有相关上下文。,0
+no_memory,S28,contradiction,forgetting,女朋友家乡？,北京,我目前没有相关上下文。,0
+no_memory,S31,contradiction,forgetting,几个孩子？,一个,我目前没有相关上下文。,0
+short_only,S01,persona,consistency,行程中是否避免了猫咖类活动？,避免猫咖,根据您之前提到的，应该是 避开猫咖。,1
+short_only,S02,persona,consistency,餐厅是否考虑了避开乳制品？,避开乳制品,根据您之前提到的，应该是 避开乳制品。,1
+short_only,S03,persona,consistency,活动是否考虑素食？,素食,根据您之前提到的，应该是 素食。,1
+short_only,S04,persona,consistency,清单是否考虑不能搬重物？,不搬重物,根据您之前提到的，应该是 重物。,1
+short_only,S05,persona,consistency,是否强调花生/坚果过敏？,花生过敏,根据您之前提到的，应该是 花生过敏。,1
+short_only,S06,persona,consistency,公司是否对应机械工程？,机械,根据您之前提到的，应该是 机械。,1
+short_only,S07,persona,consistency,推荐是否考虑3岁幼儿？,适合幼儿,根据您之前提到的，应该是 3岁。,1
+short_only,S08,persona,consistency,是否给数学英语更多权重？,数学英语,根据您之前提到的，应该是 数学。,1
+short_only,S17,update,consistency,清单是韩国美食？,韩国,根据您之前提到的，应该是 韩国。,1
+short_only,S18,update,consistency,推荐是否按4岁？,4岁,根据您之前提到的，应该是 4岁。,1
+short_only,S19,update,consistency,推荐是否基于1杯/天？,每天1杯,根据您之前提到的，应该是 1杯。,1
+short_only,S20,update,consistency,短文提武汉？,武汉,根据您之前提到的，应该是 武汉。,1
+short_only,S21,update,consistency,倒推按11月15？,11月15号,根据您之前提到的，应该是 11月15。,1
+short_only,S22,update,consistency,计算是否基于2880？,2880,根据您之前提到的，应该是 2880。,1
+short_only,S23,update,consistency,按12人算？,12人,根据您之前提到的，应该是 12人。,1
+short_only,S24,update,consistency,绘本对应中班？,中班,根据您之前提到的，应该是 中班。,1
+short_only,S25,contradiction,consistency,以最新为准？,手抓饼/豆浆,根据您之前提到的，应该是 手抓饼。,1
+short_only,S26,contradiction,consistency,以牛奶为准？,牛奶,根据您之前提到的，应该是 牛奶。,1
+short_only,S27,contradiction,consistency,按1万？,1万,根据您之前提到的，应该是 1万。,1
+short_only,S28,contradiction,consistency,按北京？,北京,根据您之前提到的，应该是 北京。,1
+short_only,S29,contradiction,consistency,按68？,68,根据您之前提到的，应该是 68。,1
+short_only,S30,contradiction,consistency,按工作三年？,工作三年,根据您之前提到的，应该是 工作三年。,1
+short_only,S31,contradiction,consistency,按一个孩子？,一个孩子,根据您之前提到的，应该是 一个孩子。,1
+short_only,S32,contradiction,consistency,按不喝酒？,不喝酒,根据您之前提到的，应该是 不喝酒。,1
+short_only,S01,persona,forgetting,用户的姓名是什么？,林清雨,您前面说过相关信息：林清雨。,1
+short_only,S02,persona,forgetting,用户的职业是什么？,量化研究员,您前面说过相关信息：量化研究员。,1
+short_only,S03,persona,forgetting,用户的宠物叫什么、什么品种？,豆豆，柴犬,您前面说过相关信息：豆豆。,1
+short_only,S04,persona,forgetting,用户从哪里搬到哪里？,南山到福田,您前面说过相关信息：南山。,1
+short_only,S05,persona,forgetting,用户的职业是什么？,独立插画师,您前面说过相关信息：插画师。,1
+short_only,S06,persona,forgetting,用户硕士在哪里读的？,英国,您前面说过相关信息：英国。,1
+short_only,S07,persona,forgetting,用户家有几个孩子，分别多大？,两个孩子，8岁和3岁,您前面说过相关信息：8岁。,1
+short_only,S08,persona,forgetting,用户目标院校在哪个城市？,北京,您前面说过相关信息：北京。,1
+short_only,S09,recall,forgetting,我家wifi密码是什么来着？,Lin8520#家,抱歉，我没有这方面的记录。,0
+short_only,S10,recall,forgetting,我之前提过下周二做胃镜的地点是哪家医院？,仁济医院东院,抱歉，我没有这方面的记录。,0
+short_only,S11,recall,forgetting,我开的车牌号是什么？,沪A·6Q88K,抱歉，我没有这方面的记录。,0
+short_only,S12,recall,forgetting,我之前说过的会议时间和地点是什么？,下周三19:30，静安嘉里中心,抱歉，我没有这方面的记录。,0
+short_only,S13,recall,forgetting,我之前提过的那只狗叫什么、是什么品种？,米团，金毛,抱歉，我没有这方面的记录。,0
+short_only,S14,recall,forgetting,我之前提过的妈妈生日是哪天？,10月17号,抱歉，我没有这方面的记录。,0
+short_only,S15,recall,forgetting,我刚改的保险柜密码是多少？,713942,抱歉，我没有这方面的记录。,0
+short_only,S16,recall,forgetting,帮我写一段送礼物时的卡片，要带上我老婆的名字。,顾雪薇,抱歉，我没有这方面的记录。,0
+short_only,S17,update,forgetting,用户最终去的国家？,韩国,您前面说过相关信息：韩国。,1
+short_only,S18,update,forgetting,孩子最终年龄？,4岁,您前面说过相关信息：4岁。,1
+short_only,S19,update,forgetting,目前每天几杯？,1杯,您前面说过相关信息：1杯。,1
+short_only,S20,update,forgetting,老家最终是哪？,湖北武汉,您前面说过相关信息：武汉。,1
+short_only,S21,update,forgetting,最终截止日？,11月15号,您前面说过相关信息：11月15。,1
+short_only,S22,update,forgetting,年卡实际花费？,2880,您前面说过相关信息：2880。,1
+short_only,S23,update,forgetting,最终订几个人？,12人,您前面说过相关信息：12人。,1
+short_only,S24,update,forgetting,女儿明年上哪个年级？,中班,您前面说过相关信息：中班。,1
+short_only,S28,contradiction,forgetting,女朋友家乡？,北京,您前面说过相关信息：北京。,1
+short_only,S31,contradiction,forgetting,几个孩子？,一个,您前面说过相关信息：一个。,1
+short_long,S01,persona,consistency,行程中是否避免了猫咖类活动？,避免猫咖,根据您之前提到的，应该是 避开猫咖。,1
+short_long,S02,persona,consistency,餐厅是否考虑了避开乳制品？,避开乳制品,根据您之前提到的，应该是 避开乳制品。,1
+short_long,S03,persona,consistency,活动是否考虑素食？,素食,根据您之前提到的，应该是 素食。,1
+short_long,S04,persona,consistency,清单是否考虑不能搬重物？,不搬重物,根据您之前提到的，应该是 重物。,1
+short_long,S05,persona,consistency,是否强调花生/坚果过敏？,花生过敏,根据您之前提到的，应该是 花生过敏。,1
+short_long,S06,persona,consistency,公司是否对应机械工程？,机械,根据您之前提到的，应该是 机械。,1
+short_long,S07,persona,consistency,推荐是否考虑3岁幼儿？,适合幼儿,根据您之前提到的，应该是 3岁。,1
+short_long,S08,persona,consistency,是否给数学英语更多权重？,数学英语,根据您之前提到的，应该是 数学。,1
+short_long,S17,update,consistency,清单是韩国美食？,韩国,根据您之前提到的，应该是 韩国。,1
+short_long,S18,update,consistency,推荐是否按4岁？,4岁,根据您之前提到的，应该是 4岁。,1
+short_long,S19,update,consistency,推荐是否基于1杯/天？,每天1杯,根据您之前提到的，应该是 1杯。,1
+short_long,S20,update,consistency,短文提武汉？,武汉,根据您之前提到的，应该是 武汉。,1
+short_long,S21,update,consistency,倒推按11月15？,11月15号,根据您之前提到的，应该是 11月15。,1
+short_long,S22,update,consistency,计算是否基于2880？,2880,根据您之前提到的，应该是 2880。,1
+short_long,S23,update,consistency,按12人算？,12人,根据您之前提到的，应该是 12人。,1
+short_long,S24,update,consistency,绘本对应中班？,中班,根据您之前提到的，应该是 中班。,1
+short_long,S25,contradiction,consistency,以最新为准？,手抓饼/豆浆,根据您之前提到的，应该是 手抓饼。,1
+short_long,S26,contradiction,consistency,以牛奶为准？,牛奶,根据您之前提到的，应该是 牛奶。,1
+short_long,S27,contradiction,consistency,按1万？,1万,根据您之前提到的，应该是 1万。,1
+short_long,S28,contradiction,consistency,按北京？,北京,根据您之前提到的，应该是 北京。,1
+short_long,S29,contradiction,consistency,按68？,68,根据您之前提到的，应该是 68。,1
+short_long,S30,contradiction,consistency,按工作三年？,工作三年,根据您之前提到的，应该是 工作三年。,1
+short_long,S31,contradiction,consistency,按一个孩子？,一个孩子,根据您之前提到的，应该是 一个孩子。,1
+short_long,S32,contradiction,consistency,按不喝酒？,不喝酒,根据您之前提到的，应该是 不喝酒。,1
+short_long,S01,persona,forgetting,用户的姓名是什么？,林清雨,您前面说过相关信息：林清雨。,1
+short_long,S02,persona,forgetting,用户的职业是什么？,量化研究员,您前面说过相关信息：量化研究员。,1
+short_long,S03,persona,forgetting,用户的宠物叫什么、什么品种？,豆豆，柴犬,您前面说过相关信息：豆豆。,1
+short_long,S04,persona,forgetting,用户从哪里搬到哪里？,南山到福田,您前面说过相关信息：南山。,1
+short_long,S05,persona,forgetting,用户的职业是什么？,独立插画师,您前面说过相关信息：插画师。,1
+short_long,S06,persona,forgetting,用户硕士在哪里读的？,英国,您前面说过相关信息：英国。,1
+short_long,S07,persona,forgetting,用户家有几个孩子，分别多大？,两个孩子，8岁和3岁,您前面说过相关信息：8岁。,1
+short_long,S08,persona,forgetting,用户目标院校在哪个城市？,北京,您前面说过相关信息：北京。,1
+short_long,S09,recall,forgetting,我家wifi密码是什么来着？,Lin8520#家,根据您之前提到的，应该是 Lin8520#家。,1
+short_long,S10,recall,forgetting,我之前提过下周二做胃镜的地点是哪家医院？,仁济医院东院,根据您之前提到的，应该是 仁济医院东院。,1
+short_long,S11,recall,forgetting,我开的车牌号是什么？,沪A·6Q88K,根据您之前提到的，应该是 沪A·6Q88K。,1
+short_long,S12,recall,forgetting,我之前说过的会议时间和地点是什么？,下周三19:30，静安嘉里中心,抱歉，我没有这方面的记录。,0
+short_long,S13,recall,forgetting,我之前提过的那只狗叫什么、是什么品种？,米团，金毛,抱歉，我没有这方面的记录。,0
+short_long,S14,recall,forgetting,我之前提过的妈妈生日是哪天？,10月17号,抱歉，我没有这方面的记录。,0
+short_long,S15,recall,forgetting,我刚改的保险柜密码是多少？,713942,根据您之前提到的，应该是 713942。,1
+short_long,S16,recall,forgetting,帮我写一段送礼物时的卡片，要带上我老婆的名字。,顾雪薇,根据您之前提到的，应该是 顾雪薇。,1
+short_long,S17,update,forgetting,用户最终去的国家？,韩国,您前面说过相关信息：韩国。,1
+short_long,S18,update,forgetting,孩子最终年龄？,4岁,您前面说过相关信息：4岁。,1
+short_long,S19,update,forgetting,目前每天几杯？,1杯,您前面说过相关信息：1杯。,1
+short_long,S20,update,forgetting,老家最终是哪？,湖北武汉,您前面说过相关信息：武汉。,1
+short_long,S21,update,forgetting,最终截止日？,11月15号,您前面说过相关信息：11月15。,1
+short_long,S22,update,forgetting,年卡实际花费？,2880,您前面说过相关信息：2880。,1
+short_long,S23,update,forgetting,最终订几个人？,12人,您前面说过相关信息：12人。,1
+short_long,S24,update,forgetting,女儿明年上哪个年级？,中班,您前面说过相关信息：中班。,1
+short_long,S28,contradiction,forgetting,女朋友家乡？,北京,您前面说过相关信息：北京。,1
+short_long,S31,contradiction,forgetting,几个孩子？,一个,您前面说过相关信息：一个。,1

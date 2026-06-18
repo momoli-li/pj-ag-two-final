@@ -1,0 +1,8 @@
+config,robust,polluted,ambiguous,no_recall,clarified
+P0 无防御 (期中 harsh baseline),0,9,0,3,0
+P1 + source_conf,0,3,0,9,0
+P2 + dedup,0,9,0,3,0
+P3 + time_decay,0,9,0,3,0
+P4 全防御 (dedup+decay+conf),0,3,0,9,0
+P5 全防御 + 冲突检测,0,3,0,9,0
+P6 全防御 + 冲突 + Hybrid,0,12,0,0,0

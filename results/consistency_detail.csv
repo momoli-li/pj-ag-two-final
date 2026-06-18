@@ -1,0 +1,73 @@
+setting,script_id,scenario,probe_idx,question,ground_truth,response,judgment
+no_memory,S01,persona,0,行程中是否避免了猫咖类活动？,避免猫咖,抱歉，我没有这方面的记录。,0
+no_memory,S02,persona,0,餐厅是否考虑了避开乳制品？,避开乳制品,抱歉，我没有这方面的记录。,0
+no_memory,S03,persona,0,活动是否考虑素食？,素食,抱歉，我没有这方面的记录。,0
+no_memory,S04,persona,0,清单是否考虑不能搬重物？,不搬重物,抱歉，我没有这方面的记录。,0
+no_memory,S05,persona,0,是否强调花生/坚果过敏？,花生过敏,抱歉，我没有这方面的记录。,0
+no_memory,S06,persona,0,公司是否对应机械工程？,机械,抱歉，我没有这方面的记录。,0
+no_memory,S07,persona,0,推荐是否考虑3岁幼儿？,适合幼儿,抱歉，我没有这方面的记录。,0
+no_memory,S08,persona,0,是否给数学英语更多权重？,数学英语,抱歉，我没有这方面的记录。,0
+no_memory,S17,update,0,清单是韩国美食？,韩国,抱歉，我没有这方面的记录。,0
+no_memory,S18,update,0,推荐是否按4岁？,4岁,抱歉，我没有这方面的记录。,0
+no_memory,S19,update,0,推荐是否基于1杯/天？,每天1杯,抱歉，我没有这方面的记录。,0
+no_memory,S20,update,0,短文提武汉？,武汉,抱歉，我没有这方面的记录。,0
+no_memory,S21,update,0,倒推按11月15？,11月15号,抱歉，我没有这方面的记录。,0
+no_memory,S22,update,0,计算是否基于2880？,2880,抱歉，我没有这方面的记录。,0
+no_memory,S23,update,0,按12人算？,12人,抱歉，我没有这方面的记录。,0
+no_memory,S24,update,0,绘本对应中班？,中班,抱歉，我没有这方面的记录。,0
+no_memory,S25,contradiction,0,以最新为准？,手抓饼/豆浆,抱歉，我没有这方面的记录。,0
+no_memory,S26,contradiction,0,以牛奶为准？,牛奶,抱歉，我没有这方面的记录。,0
+no_memory,S27,contradiction,0,按1万？,1万,抱歉，我没有这方面的记录。,0
+no_memory,S28,contradiction,0,按北京？,北京,抱歉，我没有这方面的记录。,0
+no_memory,S29,contradiction,0,按68？,68,抱歉，我没有这方面的记录。,0
+no_memory,S30,contradiction,0,按工作三年？,工作三年,抱歉，我没有这方面的记录。,0
+no_memory,S31,contradiction,0,按一个孩子？,一个孩子,抱歉，我没有这方面的记录。,0
+no_memory,S32,contradiction,0,按不喝酒？,不喝酒,抱歉，我没有这方面的记录。,0
+short_only,S01,persona,0,行程中是否避免了猫咖类活动？,避免猫咖,根据您之前提到的，应该是 避开猫咖。,1
+short_only,S02,persona,0,餐厅是否考虑了避开乳制品？,避开乳制品,根据您之前提到的，应该是 避开乳制品。,1
+short_only,S03,persona,0,活动是否考虑素食？,素食,根据您之前提到的，应该是 素食。,1
+short_only,S04,persona,0,清单是否考虑不能搬重物？,不搬重物,根据您之前提到的，应该是 重物。,1
+short_only,S05,persona,0,是否强调花生/坚果过敏？,花生过敏,根据您之前提到的，应该是 花生过敏。,1
+short_only,S06,persona,0,公司是否对应机械工程？,机械,根据您之前提到的，应该是 机械。,1
+short_only,S07,persona,0,推荐是否考虑3岁幼儿？,适合幼儿,根据您之前提到的，应该是 3岁。,1
+short_only,S08,persona,0,是否给数学英语更多权重？,数学英语,根据您之前提到的，应该是 数学。,1
+short_only,S17,update,0,清单是韩国美食？,韩国,根据您之前提到的，应该是 韩国。,1
+short_only,S18,update,0,推荐是否按4岁？,4岁,根据您之前提到的，应该是 4岁。,1
+short_only,S19,update,0,推荐是否基于1杯/天？,每天1杯,根据您之前提到的，应该是 1杯。,1
+short_only,S20,update,0,短文提武汉？,武汉,根据您之前提到的，应该是 武汉。,1
+short_only,S21,update,0,倒推按11月15？,11月15号,根据您之前提到的，应该是 11月15。,1
+short_only,S22,update,0,计算是否基于2880？,2880,根据您之前提到的，应该是 2880。,1
+short_only,S23,update,0,按12人算？,12人,根据您之前提到的，应该是 12人。,1
+short_only,S24,update,0,绘本对应中班？,中班,根据您之前提到的，应该是 中班。,1
+short_only,S25,contradiction,0,以最新为准？,手抓饼/豆浆,根据您之前提到的，应该是 手抓饼。,1
+short_only,S26,contradiction,0,以牛奶为准？,牛奶,根据您之前提到的，应该是 牛奶。,1
+short_only,S27,contradiction,0,按1万？,1万,根据您之前提到的，应该是 1万。,1
+short_only,S28,contradiction,0,按北京？,北京,根据您之前提到的，应该是 北京。,1
+short_only,S29,contradiction,0,按68？,68,根据您之前提到的，应该是 68。,1
+short_only,S30,contradiction,0,按工作三年？,工作三年,根据您之前提到的，应该是 工作三年。,1
+short_only,S31,contradiction,0,按一个孩子？,一个孩子,根据您之前提到的，应该是 一个孩子。,1
+short_only,S32,contradiction,0,按不喝酒？,不喝酒,根据您之前提到的，应该是 不喝酒。,1
+short_long,S01,persona,0,行程中是否避免了猫咖类活动？,避免猫咖,根据您之前提到的，应该是 避开猫咖。,1
+short_long,S02,persona,0,餐厅是否考虑了避开乳制品？,避开乳制品,根据您之前提到的，应该是 避开乳制品。,1
+short_long,S03,persona,0,活动是否考虑素食？,素食,根据您之前提到的，应该是 素食。,1
+short_long,S04,persona,0,清单是否考虑不能搬重物？,不搬重物,根据您之前提到的，应该是 重物。,1
+short_long,S05,persona,0,是否强调花生/坚果过敏？,花生过敏,根据您之前提到的，应该是 花生过敏。,1
+short_long,S06,persona,0,公司是否对应机械工程？,机械,根据您之前提到的，应该是 机械。,1
+short_long,S07,persona,0,推荐是否考虑3岁幼儿？,适合幼儿,根据您之前提到的，应该是 3岁。,1
+short_long,S08,persona,0,是否给数学英语更多权重？,数学英语,根据您之前提到的，应该是 数学。,1
+short_long,S17,update,0,清单是韩国美食？,韩国,根据您之前提到的，应该是 韩国。,1
+short_long,S18,update,0,推荐是否按4岁？,4岁,根据您之前提到的，应该是 4岁。,1
+short_long,S19,update,0,推荐是否基于1杯/天？,每天1杯,根据您之前提到的，应该是 1杯。,1
+short_long,S20,update,0,短文提武汉？,武汉,根据您之前提到的，应该是 武汉。,1
+short_long,S21,update,0,倒推按11月15？,11月15号,根据您之前提到的，应该是 11月15。,1
+short_long,S22,update,0,计算是否基于2880？,2880,根据您之前提到的，应该是 2880。,1
+short_long,S23,update,0,按12人算？,12人,根据您之前提到的，应该是 12人。,1
+short_long,S24,update,0,绘本对应中班？,中班,根据您之前提到的，应该是 中班。,1
+short_long,S25,contradiction,0,以最新为准？,手抓饼/豆浆,根据您之前提到的，应该是 手抓饼。,1
+short_long,S26,contradiction,0,以牛奶为准？,牛奶,根据您之前提到的，应该是 牛奶。,1
+short_long,S27,contradiction,0,按1万？,1万,根据您之前提到的，应该是 1万。,1
+short_long,S28,contradiction,0,按北京？,北京,根据您之前提到的，应该是 北京。,1
+short_long,S29,contradiction,0,按68？,68,根据您之前提到的，应该是 68。,1
+short_long,S30,contradiction,0,按工作三年？,工作三年,根据您之前提到的，应该是 工作三年。,1
+short_long,S31,contradiction,0,按一个孩子？,一个孩子,根据您之前提到的，应该是 一个孩子。,1
+short_long,S32,contradiction,0,按不喝酒？,不喝酒,根据您之前提到的，应该是 不喝酒。,1

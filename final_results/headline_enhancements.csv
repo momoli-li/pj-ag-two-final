@@ -1,0 +1,10 @@
+config,consistency_short_long,forgetting_short_long
+M0 中期 baseline (TF-IDF),1.0,0.1923
+E1 Chroma 后端,1.0,0.1923
+E2 Hybrid (TF-IDF+BM25 RRF),0.9583,0.0385
+E3 防御: dedup,1.0,0.1923
+E4 防御: time_decay,1.0,0.1923
+E5 防御: source_conf,1.0,0.1923
+E6 防御: 全开 (dedup+decay+conf),1.0,0.1923
+E7 槽位摘要注入,1.0,0.1923
+E8 Hybrid + 全防御 + 槽位摘要 [全开],0.9583,0.0385

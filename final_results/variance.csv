@@ -1,0 +1,4 @@
+config,consistency_mean,consistency_std,forgetting_mean,forgetting_std,n_seeds
+"baseline (TF-IDF, no defenses)",0.9667,0.0349,0.1538,0.0385,5
+Hybrid only,0.9667,0.0349,0.0385,0.0272,5
+Hybrid + 全防御 + 槽位摘要,0.9667,0.0349,0.0385,0.0272,5

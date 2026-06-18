@@ -1,0 +1,4 @@
+backend,n_docs,fit_add_ms,query_ms_avg
+TF-IDF (自写),200,121.6,0.389
+Hybrid (TF-IDF + BM25 + RRF),200,93.0,1.418
+Chroma,200,1119.2,2.274
